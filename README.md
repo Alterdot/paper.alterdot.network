@@ -1,8 +1,8 @@
-# paper.dash.org
-JavaScript Client-Side Dash Wallet Generator
+# paper.alterdot.network
+JavaScript Client-Side Alterdot Wallet Generator
 
-Now Dash addresses and their corresponding private key can be conveniently
-generated in a web browser.
+Now, Alterdot addresses and their corresponding private keys can be conveniently
+generated in a web browser. The website can be downloaded and then used locally without an internet connection.
 
 ## Installation
 
@@ -55,6 +55,13 @@ END USER NOTES:
 
 Notice of Copyrights and Licenses:
 ---------------------------------------
+
+The paper.alterdot.network project, software and embedded resources are
+copyright The Alterdot Developers.
+
+The paper.alterdot.network name, Alterdot name and logo are not part of the open source
+license.
+
 The paper.dash.org project, software and embedded resources are
 copyright The Dash Developers.
 
