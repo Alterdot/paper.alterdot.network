@@ -2,7 +2,7 @@
 			no-repeat left center; width: 17px; height: 17px; display: inline-block; float: right; cursor: pointer; }
 .less { background: url(<%= assets['images/less'] %>)
 			no-repeat left center; width: 17px; height: 17px; display: inline-block; float: right; }
-a { position: relative; z-index: 20; }
+a { position: relative; z-index: 20; color: #d56969; }
 .right { text-align: right; }
 .walletarea { display: none; border: 3px solid #99445d; }
 hr { margin: 20px 0; border-top: 2px dashed #008000; }
@@ -15,7 +15,7 @@ hr { margin: 20px 0; border-top: 2px dashed #008000; }
 .keyarea .qrcode_public { display: inline-block; float: left; }
 .keyarea .qrcode_private { display: inline-block; position: relative; top: 28px; float: right; }
 .pubkeyhex { word-wrap: break-word; }
-body { font-family: Arial; background-color: #f5f5f5; }
+body { font-family: Arial; background-color: #210519de; color: #ffffff; }
 body, html { height: 99%; }
 .faqs ol { padding: 0 0 0 25px; }
 .faqs li { padding: 3px 0; }
@@ -186,7 +186,7 @@ input[type=checkbox] { position: relative; z-index: 20; }
     #menu { visibility: visible; font-size: 90%; }
     #culturemenu { text-align: center; padding: 0 10px 5px 10px; margin-bottom: 3px; font-size: 90%; }
     #culturemenu span { padding: 3px; }
-    #culturemenu .selected { text-decoration: none; color: #000000; }
+    #culturemenu .selected { text-decoration: none; color: #ffffff; }
     .culturemenurow { padding: 2px 0; }
 
 	#braincommands .row .label { width: 200px; display: inline-block; }
@@ -215,7 +215,7 @@ input[type=checkbox] { position: relative; z-index: 20; }
 	.footer .authorpgp span.item { text-align: right; display: block; padding: 0 20px; }
 	.footer .copyright { font-size: 80%; clear: both; padding: 5px 0; }
 	.footer .copyright span { padding: 10px 2px; }
-    .footer .tooltip { display: none; text-align: left; border: 3px solid #99445d; background-color: #FFFFF6; margin: 5px; padding: 10px; top: 0px; position: relative;  }
+    .footer .tooltip { display: none; text-align: left; border: 3px solid #99445d; background-color: #FFFFF6; color: #99445d; margin: 5px; padding: 10px; top: 0px; position: relative;  }
 	.footer .statusgood { color: green; font-weight: bold; }
     .footer .statuswarn { color: orange; font-weight: bold; }
 	.footer .statusbad { color: red; font-weight: bold; }

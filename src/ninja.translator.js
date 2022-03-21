@@ -68,7 +68,7 @@
 				"bip38alertpassphraserequired": "Passphrase required for BIP38 key",
 				"vanityinvalidinputcouldnotcombinekeys": "Invalid input. Could not combine keys.",
 				"vanityalertinvalidinputpublickeysmatch": "Invalid input. The Public Key of both entries match. You must input two different keys.",
-				"vanityalertinvalidinputcannotmultiple": "Invalid input. Cannot multiply two public keys. Select 'Add' to add two public keys to get a Alterdot address.",
+				"vanityalertinvalidinputcannotmultiple": "Invalid input. Cannot multiply two public keys. Select 'Add' to add two public keys to get an Alterdot address.",
 				"vanityprivatekeyonlyavailable": "Only available when combining two private keys",
 				"vanityalertinvalidinputprivatekeysmatch": "Invalid input. The Private Key of both entries match. You must input two different keys.",
 
